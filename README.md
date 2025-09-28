@@ -16,10 +16,10 @@ A plataforma conecta colaboradores aos desafios estratégicos da empresa, permit
 
 ## 📂 Estrutura do Repositório
 ### 📖 Documentações
-- [Modelagem](./documentacao/modelagem)
-- [Banco de Dados](./documentacao/dados)
-- [Back-end Docs](./documentacao/backend)
-- [Front-end Docs](./documentacao/frontend)
+- [Modelagem](./documentacoes/modelagem)
+- [Banco de Dados](./documentacoes/dados)
+- [Back-end Docs](./documentacoes/backend)
+- [Front-end Docs](./documentacoes/frontend)
 
 ## 🎨 [Front-end (Flutter)](https://github.com/riqinho/eurohub-front)
 Pasta dedicada ao desenvolvimento do aplicativo mobile utilizando Flutter.
