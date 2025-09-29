@@ -4,7 +4,8 @@ O EuroHub é uma solução digital (web e mobile) criada para incentivar a cultu
 
 A plataforma conecta colaboradores aos desafios estratégicos da empresa, permitindo acompanhar iniciativas, enviar ideias, votar em propostas de colegas e desenvolver soluções em conjunto com o assistente virtual Euri. Além disso, conta com recursos de gamificação, conquistas da comunidade e dashboards inteligentes para apoiar gestores na tomada de decisão.
 
----
+## 🎬[Assista ao nosso Pitch aqui!](https://youtu.be/lZrKWhnKXfM) 
+
 
 ### 👩‍💻 Integrantes do Grupo
 - Caua Fernandes - RM 551765
